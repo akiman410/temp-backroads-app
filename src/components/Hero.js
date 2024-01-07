@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section className="hero" id="home">
       <div className="hero-banner">
-        <h1>Nayax Hero</h1>
+        <h1>USA Kenyan Diaspora News</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
           explicabo debitis est autem dicta.
