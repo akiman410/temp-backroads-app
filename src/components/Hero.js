@@ -6,8 +6,7 @@ const Hero = () => {
       <div className="hero-banner">
         <h1>USA Kenyan Diaspora News</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          explicabo debitis est autem dicta.
+        The Kenyan Diaspora are people who hail from Kenya and live outside the country of Kenya.
         </p>
         <a href="#tours" className="btn hero-btn">
           explore tours
