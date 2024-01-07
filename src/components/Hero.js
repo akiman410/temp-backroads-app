@@ -9,7 +9,7 @@ const Hero = () => {
         The Kenyan Diaspora are people who hail from Kenya and live outside the country of Kenya.
         </p>
         <a href="#tours" className="btn hero-btn">
-          explore tours
+          Read the Latest
         </a>
       </div>
     </section>
